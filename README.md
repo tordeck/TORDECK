@@ -1,13 +1,7 @@
-### Hi there 👋
+### Olá! 👋
 
-- 🔭 I’m currently working on Front-End with javascript
-Hope u like it, let me know if something goes wrong, or give me some tips to help me improve my skills <3.
-
-<!--
-**tordeck/TORDECK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front-End with javascript
-
+- 🔭 Atualmente estou trabalhando com html e css.
+- Você encontrará neste projeto, a página de uma barbearia fictícia desenvolvida por mim em conjunto com meu coordenador de curso.
+- Nela, você será capaz de agendar um horário, consultar preços e adquirir produtos da barbeari
+- A página já está adaptada para mobile, mas o mais importante é que você note as funcionalidades simples e charmosas que a tornam uma página atrativa e intuitiva.
 -->
